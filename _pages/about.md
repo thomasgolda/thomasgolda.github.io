@@ -16,7 +16,10 @@ The focus of my work is centered around the two topics:
 
 Research Topics
 ======
-Based on these general interests, I’m working in three main fields that are listed below. You are a student in Computer Science, Mathematics, Electrical Engineering, Physics or other related fields looking for a research topic for your thesis? You are motivated to work on challenging and interesting tasks? Feel free to contact me.
+Based on these general interests, I’m working in three main fields that are listed below. I try to develop and apply machine learning methods in order to tackle all those tasks.
+
+You are a student in Computer Science, Mathematics, Electrical Engineering, Physics or other related fields looking for a research topic for your thesis? You are motivated to work on challenging and interesting tasks? Feel free to contact me.
+{: .notice}
 
 Anomaly Detection
 ------
