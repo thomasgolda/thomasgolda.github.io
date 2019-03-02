@@ -2,7 +2,7 @@
 title: "Crowd-level Person Pose Estimation"
 collection: teaching
 type: "bachelor thesis"
-permalink: "/teaching/2017-crowd-level-person-pose-estimation"
+permalink: /teaching/2017-crowd-level-person-pose-estimation
 venue: "Dissert, Thomas"
 date: 2017-05-21
 location: 
