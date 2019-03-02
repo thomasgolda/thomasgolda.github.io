@@ -23,7 +23,7 @@ Based on these general interests, I’m working in three main fields that are li
 
 Anomaly Detection
 ------
-Anomaly detection is a very important topic in almost all fields. First of all, it is important to know what an anomaly actually is! The task can range from detecting anomalies in circuit designs, to abnormal packages within a network, to salient behavior of a person or group of persons. In my work, I focus on the latter. My main work focuses on applying generative approches like Generative Adversarial Networks (GAN) and analyzing time series using Long Short-Term Memories (LSTM), Reccurent Neural Networks (RNN) and Hidden Markov Models (HMM). 
+Anomaly detection is a very important topic in almost all fields. First of all, it is important to know what an anomaly actually is! The task can range from detecting anomalies in circuit designs, to abnormal packages within a network, to salient behavior of a person or group of persons. In my work, I focus on the latter. My main work focuses on applying generative approches like Generative Adversarial Networks (GAN) and analyzing time series using Long Short-Term Memories (LSTM), Recurrent Neural Networks (RNN) and Hidden Markov Models (HMM). 
 
 Human Pose Estimation
 ------
