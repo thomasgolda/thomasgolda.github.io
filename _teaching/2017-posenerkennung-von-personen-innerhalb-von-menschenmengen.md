@@ -2,7 +2,7 @@
 title: "Posenerkennung von Personen innerhalb von Menschenmengen"
 collection: teaching
 type: "bachelor thesis"
-permalink: /teaching/2017-posenerkennung-von-personen-innerhalb-von-menschenmengen
+permalink: /\_teaching/2017-posenerkennung-von-personen-innerhalb-von-menschenmengen
 venue: "Dissert, Thomas"
 date: 2017-05-21
 location: 
