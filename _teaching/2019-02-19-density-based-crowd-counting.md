@@ -2,7 +2,7 @@
 title: "Density-based Crowd Counting"
 collection: teaching
 type: "Bachelor Thesis"
-permalink: /teaching/2018-density-based-crowd-counting
+permalink: /teaching/2019-02-19-density-based-crowd-counting
 venue: "Tobias Bleymehl"
 date: 2019-02-19
 location: "Karlsruhe, Germany"
