@@ -16,9 +16,9 @@ The focus of my work is centered around the two topics:
 
 Research Topics
 ======
-Based on these general interests, I’m working in three main fields: [anomaly detection](#anomaly), [human pose estimation](#hpe) and [crowd analysis](#crowd). You can find more information about the fields below. I try to develop and apply machine learning methods in order to tackle all those tasks.
+Based on these general interests, I’m working in three main fields: [anomaly detection](#anomaly), [human pose estimation](#hpe) and [crowd analysis](#crowd). I try to develop and apply machine learning methods in order to tackle all those tasks. You can find more information about the fields below. 
 
-**Tip**: _You are a student in Computer Science, Mathematics, Electrical Engineering, Physics or other related fields looking for a research topic for your thesis? You are motivated to work on challenging and interesting tasks? Feel free to contact me._
+**Tip**: You are a student in Computer Science, Mathematics, Electrical Engineering, Physics or other related fields looking for a research topic for your thesis? You are motivated to work on challenging and interesting tasks? Feel free to contact me.
 {: .notice}
 
 <a name="anomaly"></a>Anomaly Detection
