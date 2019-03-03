@@ -9,3 +9,4 @@ location: "Karlsruhe, Germany"
 ---
 
 WORK IN PROGRESS
+{: .text-justify}
