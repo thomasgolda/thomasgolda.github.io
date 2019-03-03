@@ -2,9 +2,9 @@
 title: "Crowd-level Person Pose Estimation"
 collection: teaching
 type: "Bachelor Thesis"
-permalink: /teaching/2017-crowd-level-person-pose-estimation
+permalink: /teaching/2018-crowd-level-person-pose-estimation
 venue: "Thomas Dissert"
-date: 2017-05-21
+date: 2018-05-21
 location: "Karlsruhe, Germany"
 ---
 
