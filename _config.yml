@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ML & CV"
+title                    : "About Thomas Golda"
 title_separator          : "-"
 name                     : &name "Thomas Golda"
 description              : &description "Research assistant at the Karlsruhe Institute of Technology and Fraunhofer Institute of Optronics, System Technologies and Image Exploitation"
