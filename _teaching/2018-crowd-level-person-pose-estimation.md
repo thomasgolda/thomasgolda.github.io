@@ -4,7 +4,7 @@ collection: teaching
 type: "Bachelor Thesis"
 permalink: /teaching/2018-crowd-level-person-pose-estimation
 venue: "Thomas Dissert"
-date: 2018-05-21
+date: 2018-09-19
 location: "Karlsruhe, Germany"
 ---
 
