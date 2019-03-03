@@ -32,3 +32,5 @@ Extracting the pose of a person can be useful for different reasons like activit
 Crowd Analysis
 ------
 Analyzing how people move (from a macroscopic point of view) and being able to estimate the number of people within a certain area are important and quite challenging tasks. With the increasing number of huge events and people moving around in urban areas, it gets more important to characterize crowded situations. Especially from a security point of view, it would be great to be able to predict how the distribution of people within a certain area will change within a certain time interval. Which region will be very crowded in five minutes? Are there any salient patterns within the movement of the crowd? 
+
+![Field #1: Crowd Analysis](https://github.com/thomasgolda/thomasgolda.github.io/blob/master/images/field_crowd_analysis.png "Field #1: Crowd Analysis")
