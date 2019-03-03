@@ -12,10 +12,10 @@ redirect_from:
 Education
 ======
 
-| Degree           | Year   | Subject                                                      |
-| --------         | ------ | ------------------------------------------------------------ |
-| B. Sc.           | 2014   | Computer Science                                             |
-| M. Sc.           | 2016   | Computer Science                                             |
+| Degree           | Year   | School        | Subject                                                      | 
+| --------         | ------ | ------------- | ------------------------------------------------------------ |
+| B. Sc.           | 2014   | [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/international/) | Computer Science                                             |
+| M. Sc.           | 2016   | [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/international/) | Computer Science                                             |
 
 Work experience
 ======
