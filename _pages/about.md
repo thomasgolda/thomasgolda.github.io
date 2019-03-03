@@ -31,6 +31,8 @@ Based on these general interests, I’m working in three main fields: [anomaly d
 Anomaly detection is a very important topic in almost all fields. First of all, it is important to know what an anomaly actually is! The task can range from detecting anomalies in circuit designs, to abnormal packages within a network, to salient behavior of a person or group of persons. In my work, I focus on the latter. My main work focuses on applying generative approches like Generative Adversarial Networks (GAN) and analyzing time series using Long Short-Term Memories (LSTM), Recurrent Neural Networks (RNN) and Hidden Markov Models (HMM). 
 {: .text-justify}
 
+<img style='float: right; width: 238px; height: 158px;' src='/images/field_anomaly_detection.gif'>
+
 <a name="hpe"></a>Human Pose Estimation
 ------
 Extracting the pose of a person can be useful for different reasons like activity recognition and motion capturing. For example, within the medical field, extracted poses can be used to analyze the movement of limbs of a person rehabilitating from an injury or to detect malfunctions in the human locomotive system. Due to lots of occlusions, the task of robust and reliable human pose estimation for multiple persons gets quite challenging. Furthermore, working with abstract poses allows us to preserve the privacy of a monitored person. My work focuses on using human body poses for abnormal behavior detection. This can range from certain activities that can be clustered as violence, but also tumbling people or people laying on the ground.
