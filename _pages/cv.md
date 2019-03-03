@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,18 +11,17 @@ redirect_from:
 
 Education
 ======
-* B. Sc. in Computer Science, Technische Universität Ilmenau, 2014
-* M. Sc. in Computer Science, Technische Universität Ilmenau, 2016
+| Degree           | Year   | Subject                                                      |
+| --------         | ------ | ------------------------------------------------------------ |
+| B. Sc.           | 2014   | Computer Science                                             |
+| M. Sc.           | 2016   | Computer Science                                             |
 
 Work experience
 ======
-* 2015/2016: Research Intern (6 months)
-  * Bayrische Motorenwerke AG
-  * Supervisor: Dr.-Ing. Martin 
-
-* since 08/2017: Research Assistant
-  * Karlsruhe Institute of Technology
-  * Supervisor: Prof. Dr.-Ing. habil. Jürgen Beyerer
+| Company                               | Year        | Position                           |
+| --------                              | ----------- | ---------------------------------- |
+| Bayerische Motoren Werke AG           | 2015/2016   | Intern (6 months)                  |
+| Karlsruhe Institute of Technology     | since 2017  | Research Assistant                 |
   
 Skills
 ======
