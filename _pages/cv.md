@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <br>
+
 Education
 ======
 
@@ -20,6 +21,7 @@ Education
 | M. Sc.           | 2016   | [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/international/) | Computer Science                                             |
 
 <br>
+
 Work experience
 ======
 
@@ -29,6 +31,7 @@ Work experience
 | Karlsruhe Institute of Technology, Karlsruhe     | since 2017  | Research Assistant                 |
   
 <br>
+
 Skills
 ======
 * Machine Learning
@@ -41,6 +44,7 @@ Skills
   * Python2 & Python3
 
 <br>
+
 Publications
 ======
   <ul>{% for post in site.publications %}
