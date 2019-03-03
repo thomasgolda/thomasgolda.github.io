@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+
 | Degree           | Year   | Subject                                                      |
 | --------         | ------ | ------------------------------------------------------------ |
 | B. Sc.           | 2014   | Computer Science                                             |
@@ -18,6 +19,7 @@ Education
 
 Work experience
 ======
+
 | Company                               | Year        | Position                           |
 | --------                              | ----------- | ---------------------------------- |
 | Bayerische Motoren Werke AG           | 2015/2016   | Intern (6 months)                  |
