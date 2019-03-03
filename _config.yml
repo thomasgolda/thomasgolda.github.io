@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Research Profile"
+title                    : "Academic Profile"
 title_separator          : "-"
 name                     : &name "Thomas Golda"
 description              : &description "Research assistant at the Karlsruhe Institute of Technology and Fraunhofer Institute of Optronics, System Technologies and Image Exploitation"
