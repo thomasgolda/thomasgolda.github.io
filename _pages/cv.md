@@ -22,8 +22,8 @@ Work experience
 
 | Company                               | Year        | Position                           |
 | --------                              | ----------- | ---------------------------------- |
-| Bayerische Motoren Werke AG           | 2015/2016   | Intern (6 months)                  |
-| Karlsruhe Institute of Technology     | since 2017  | Research Assistant                 |
+| Bayerische Motoren Werke AG, Munich           | 2015/2016   | Intern (6 months)                  |
+| Karlsruhe Institute of Technology, Karlsruhe     | since 2017  | Research Assistant                 |
   
 Skills
 ======
