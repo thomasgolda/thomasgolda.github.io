@@ -9,14 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+<br>
 Education
 ======
+
 
 | Degree           | Year   | School        | Subject                                                      | 
 | --------         | ------ | ------------- | ------------------------------------------------------------ |
 | B. Sc.           | 2014   | [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/international/) | Computer Science                                             |
 | M. Sc.           | 2016   | [Technische Universität Ilmenau](https://www.tu-ilmenau.de/en/international/) | Computer Science                                             |
 
+<br>
 Work experience
 ======
 
@@ -25,6 +28,7 @@ Work experience
 | Bayerische Motoren Werke AG, Munich           | 2015/2016   | Intern (6 months)                  |
 | Karlsruhe Institute of Technology, Karlsruhe     | since 2017  | Research Assistant                 |
   
+<br>
 Skills
 ======
 * Machine Learning
@@ -36,6 +40,7 @@ Skills
   * C++11
   * Python2 & Python3
 
+<br>
 Publications
 ======
   <ul>{% for post in site.publications %}
