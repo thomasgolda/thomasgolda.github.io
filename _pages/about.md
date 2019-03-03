@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br\>
-<img src='/images/logo_kit_iosb.png'>
 
 My name is Thomas Golda and I’m a research assistant at the Karlsruhe Institute of Technology, working in close cooperation with the Fraunhofer Institute of Optronics, System Technologies and Image Exploitation (IOSB) in Karlsruhe (Germany), which is one of the largest research institutes in the field of image acquisition, processing and analysis in Europe.
 
