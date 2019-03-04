@@ -117,7 +117,12 @@ h2.archive__item-title {
    border: 1px solid $border-color;
    padding-top: 1em;
    padding-left: 1em;
+   padding-right: 1em;
    margin-bottom: 1em;
+  
+  :hover {
+   border: 1px solid #009374;
+  }
 }
 
 
