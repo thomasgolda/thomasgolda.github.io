@@ -21,7 +21,7 @@ Based on these general interests, I’m working in three main fields: [anomaly d
 {: .text-justify}
 
 **Tip**: You are a student in Computer Science, Mathematics, Electrical Engineering, Physics or other related fields looking for a research topic for your thesis? You are motivated to work on challenging and interesting tasks? Feel free to contact me.
-{: .notice}
+{: .notice--success}
 
 <a name="anomaly"></a>Anomaly Detection
 ------
