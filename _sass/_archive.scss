@@ -48,10 +48,10 @@
   a + a {
     opacity: 0.5;
   }
-   
-  h2 {
-     margin-top: 0em !important;
-  }
+}
+
+h2 .archive__item-title {
+  margin-top: 0em !important;
 }
 
 /* remove border*/
