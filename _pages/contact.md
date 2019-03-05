@@ -22,6 +22,9 @@ Thomas Golda, M. Sc.<br>
 Karlsruhe Institute of Technology (KIT)<br>
 Institute for Anthropomatics and Robotics (IAR)<br>
 Vision and Fusion Laboratory (IES)<br>
-Phone: +49 721 6091-631<br>
-Email: [thomas.golda@kit.edu](mailto:thomas.golda@kit.edu)<br>
+c/o Technologiefabrik<br>
+Haid-und-Neu-Straße 7<br>
+76131 Karlsruhe<br>
+phone: +49 721 6091-631<br>
+email: [thomas.golda@kit.edu](mailto:thomas.golda@kit.edu)<br>
 http://ies.anthropomatik.kit.edu  
