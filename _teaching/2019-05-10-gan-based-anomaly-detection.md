@@ -11,7 +11,12 @@ tags:
   - thesis
   - anomaly detection
   - GAN
+pdf:
+data:
+code:
+bibtex:
 ---
 
+>>>>>>
 WORK IN PROGRESS
 {: .text-justify}
