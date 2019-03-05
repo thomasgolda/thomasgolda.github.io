@@ -3,6 +3,8 @@ permalink: /contact
 title: "Contact"
 excerpt: "Contact"
 author_profile: true
+redirect-from:
+  - /contact/
 ---
 
 {% include base_path %}
