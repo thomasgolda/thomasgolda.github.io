@@ -169,6 +169,17 @@ h2.archive__item-title {
   }
 }
 
+/*
+   Button container
+   ========================================================================== */
+
+.btn_container {
+   display: flex;
+}
+
+.btn_container div {
+   margin-right: 5px;
+}
 
 /*
    Features
