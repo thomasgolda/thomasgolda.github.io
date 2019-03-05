@@ -16,3 +16,5 @@ bibtex:
 pdf:
 code:
 ---
+
+Tobias is currently examining different ways to tackle the problem of dynamic occlusions in crowded scenarios.
