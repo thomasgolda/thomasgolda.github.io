@@ -17,3 +17,4 @@ code:
 bibtex:
 ---
 
+Using Generative Adversarial Networks, Nils tries to detect anomalies in video data. Therefore, he tries to predict optical flow from video frames and vice versa. These are then compared with the real situation in order to detect anomalies.
