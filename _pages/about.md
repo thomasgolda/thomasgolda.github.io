@@ -20,8 +20,8 @@ The focus of my work is centered around the two topics:
 Open Positions for Students 
 ======
 I'm always looking for students supporting me with my research. Some currently available topics are listed below. Topics for thesis or "Hiwi" positions are not limited to those below, so don't hesitate to ask me for other related positions.<br>
-→ [Optimization of Human Body Pose Estimation (Hiwi/BA/MA)](/files/ba_ma_2018_optimization_of_human_body_pose_estimation.pdf)<br>
-→ [Crowd Motion and Behavior Analysis (Hiwi/BA/MA)](/files/ma_2018_crowd_motion_and_behavior_analysis.pdf)
+→ [Optimization of Human Body Pose Estimation](/files/ba_ma_2018_optimization_of_human_body_pose_estimation.pdf) (Hiwi/BA/MA)<br>
+→ [Crowd Motion and Behavior Analysis](/files/ma_2018_crowd_motion_and_behavior_analysis.pdf) (Hiwi/BA/MA)
 
 ---
 
