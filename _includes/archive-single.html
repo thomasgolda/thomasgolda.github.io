@@ -53,18 +53,18 @@
     {% endif %}
   
     {% if post.collection == 'teaching' %}
-    <div class="btn_container" style="display: flex;">
+    <div class="btn_container">
       {% if post.pdf %}
         <strong><div><a href="{{ post.pdf }}" class="btn btn--info">Download PDF</a></div></strong>
       {% endif %}
       {% if post.code %}
-        <strong><div><a href="{{ post.code }}" class="btn btn--info">Code</a></div></strong>
+        <strong><div><a href="{{ post.code }}" class="btn btn--inverse">Code</a></div></strong>
       {% endif %}
       {% if post.data %}
-        <strong><div><a href="{{ post.data }}" class="btn btn--info">Data</a></div></strong>
+        <strong><div><a href="{{ post.data }}" class="btn btn--inverse">Data</a></div></strong>
       {% endif %}  
       {% if post.bibtex %}
-        <strong><div><a href="{{ base_path }}{{ post.bibtex }}" class="btn btn--info">BibTeX</a></div></strong>
+        <strong><div><a href="{{ base_path }}/files/{{ post.bibtex }}" class="btn btn--inverse">BibTeX</a></div></strong>
       {% endif %}  
     </div>
     {% endif %}
