@@ -18,3 +18,4 @@ code:
 bibtex:
 ---
 
+Pose estimation is a quiet challenging task in the field of crowd monitoring. The promising [JTA dataset](http://aimagelab.ing.unimore.it/jta) provides an easy way to generate many poses with annotated ground truth keypoints. However, the gap between synthetical and real data ist quite big, therefore Andreas tries to minimize the distance between synthetical and reality domain.
