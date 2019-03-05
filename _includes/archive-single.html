@@ -53,6 +53,7 @@
     {% endif %}
   
     {% if post.collection == 'teaching' %}
+    <div class="btn_container" style="display: flex;">
       {% if post.pdf %}
         <p><a href="{{ post.pdf }}" class="btn btn--info">Download PDF</a></p><strong>
       {% endif %}
@@ -65,6 +66,7 @@
       {% if post.bibtex %}
         <p><a href="{{ base_path }}{{ post.bibtex }}" class="btn btn--info">BibTeX</a></p><strong>
       {% endif %}  
+    </div>
     {% endif %}
     
     {% if post.citation and post.paperurl %}
