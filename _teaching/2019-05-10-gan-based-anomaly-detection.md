@@ -1,5 +1,5 @@
 ---
-title: "GAN-based Anomaly Detection"
+title: "[WIP] GAN-based Anomaly Detection"
 collection: teaching
 type: "Master Thesis"
 permalink: /teaching/2019-05-10-gan-based-anomaly-detection
