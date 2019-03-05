@@ -51,6 +51,21 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
+  
+    {% if post.collection == 'teaching' %}
+      {% if post.pdf %}
+        <p><a href="{{ post.pdf }}" class="btn btn--info">Download PDF</a></p><strong>
+      {% endif %}
+      {% if post.code %}
+        <p><a href="{{ post.code }}" class="btn btn--inverse">Code</a></p><strong>
+      {% endif %}
+      {% if post.data %}
+        <p><a href="{{ post.data }}" class="btn btn--inverse">Data</a></p><strong>
+      {% endif %}  
+      {% if post.bibtex %}
+        <p><a href="{{ post.bibtex }}" class="btn btn--inverse">BibTeX</a></p><strong>
+      {% endif %}  
+    {% endif %}
     
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
