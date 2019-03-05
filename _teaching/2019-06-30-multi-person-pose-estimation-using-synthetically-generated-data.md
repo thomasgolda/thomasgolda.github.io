@@ -12,7 +12,12 @@ tags:
   - human pose estimation
   - GAN
   - synthetical data
+pdf:
+data:
+code:
+bibtex:
 ---
 
+>>>>>>
 WORK IN PROGRESS
 {: .text-justify}
