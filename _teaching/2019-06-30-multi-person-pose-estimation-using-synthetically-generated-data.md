@@ -18,6 +18,7 @@ code:
 bibtex:
 ---
 
->>>>>>
+>>>>>
+
 WORK IN PROGRESS
 {: .text-justify}
