@@ -11,7 +11,12 @@ tags:
   - thesis
   - human pose estimation
   - synthetical data
+data:
+bibtex:
+pdf:
+code:
 ---
 
+>>>>>>
 WORK IN PROGRESS
 {: .text-justify}
