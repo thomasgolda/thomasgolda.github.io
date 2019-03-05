@@ -15,6 +15,16 @@ The focus of my work is centered around the two topics:
 * Machine Learning / Deep Learning
 * Computer Vision 
 
+---
+
+Open Positions for Students 
+======
+I'm always looking for students supporting me with my research. Some currently available topics are listed below. Topics for thesis or "Hiwi" positions are not limited to those below, so don't hesitate to ask me for other related positions.
+→ [Optimization of Human Body Pose Estimation (Hiwi/BA/MA)](/files/ba_ma_2018_optimization_of_human_body_pose_estimation.pdf)
+→ [Crowd Motion and Behavior Analysis (Hiwi/BA/MA)](/files/ma_2018_crowd_motion_and_behavior_analysis.pdf)
+
+---
+
 Research Topics
 ======
 Based on these general interests, I’m working in three main fields: [anomaly detection](#anomaly), [human pose estimation](#hpe) and [crowd analysis](#crowd). I try to develop and apply machine learning methods in order to tackle all those tasks. You can find more information about the fields below. 
