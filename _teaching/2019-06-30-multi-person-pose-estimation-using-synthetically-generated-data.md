@@ -1,5 +1,5 @@
 ---
-title: "Multi-Person Pose Estimation using synthetically generated Data"
+title: "\[WIP\] Multi-Person Pose Estimation using synthetically generated Data"
 collection: teaching
 type: "Master Thesis"
 permalink: /teaching/2019-06-30-multi-person-pose-estimation-using-synthetically-generated-data
@@ -18,7 +18,3 @@ code:
 bibtex:
 ---
 
->>>>>
-
-WORK IN PROGRESS
-{: .text-justify}
