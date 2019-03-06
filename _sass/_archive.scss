@@ -69,6 +69,7 @@ h2.archive__item-title {
 
   & + p {
     text-indent: 0;
+    margin-bottom: 0 !important;
   }
 }
 
@@ -88,7 +89,7 @@ h2.archive__item-title {
   .archive__item-title {
     text-decoration: none;
   }
-   
+
   border-color: #009734;
 }
 
@@ -113,13 +114,13 @@ h2.archive__item-title {
   .page__meta {
     margin: 0 0 4px;
   }
-   
+
    border: 1px solid $border-color;
    padding-top: 1em;
    padding-left: 1em;
    padding-right: 1em !important;
    margin-bottom: 1em;
-  
+
   &:hover {
    border: 1px solid $light-gray;
   }
