@@ -33,7 +33,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -49,9 +49,9 @@
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify}}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify}}<strong> <a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong></p>
+    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify}}<strong> <a href="{{ base_path }}{{ post.url }}" class="read_more" rel="permalink">Read more</a></strong></p>
     {% endif %}
-  
+
     {% if post.collection == 'teaching' %}
     <div class="btn_container">
       {% if post.pdf %}
@@ -62,13 +62,13 @@
       {% endif %}
       {% if post.data %}
         <strong><div><a href="{{ post.data }}" class="btn btn--article">Data</a></div></strong>
-      {% endif %}  
+      {% endif %}
       {% if post.bibtex %}
         <strong><div><a href="{{ base_path }}/files/{{ post.bibtex }}" class="btn btn--article">BibTeX</a></div></strong>
-      {% endif %}  
+      {% endif %}
     </div>
     {% endif %}
-    
+
     {% if post.citation and post.paperurl %}
       <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
     {% elsif post.citation %}
