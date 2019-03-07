@@ -23,6 +23,7 @@ I'm always looking for students supporting me with my research. Some currently a
 
 → [Optimization of Human Body Pose Estimation](/files/ba_ma_2018_optimization_of_human_body_pose_estimation.pdf) (Hiwi/BA/MA)<br>
 → [Crowd Motion and Behavior Analysis](/files/ma_2018_crowd_motion_and_behavior_analysis.pdf) (Hiwi/BA/MA)
+→ [Supporting Student Position for Research on Human and Crowd Analysis](/files/hiwi_position_human_and_crowd_analysis.pdf) (Hiwi)
 
 ---
 
