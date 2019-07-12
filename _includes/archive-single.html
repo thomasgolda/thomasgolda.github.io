@@ -17,10 +17,10 @@
     <!--{% if include.type == "grid" and teaser %}!-->
       <div class="archive__item-teaser">
         <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
+          {% if post.teaser contains "://" %}
+            "{{ post.teaser }}"
           {% else %}
-            "{{ teaser | prepend: "/images/publications/" | prepend: base_path }}"
+            "{{ post.teaser | prepend: "/images/publications/" | prepend: base_path }}"
           {% endif %}
           alt="">
       </div>
