@@ -12,8 +12,6 @@
   {% assign title = post.title %}
 {% endif %}
 
-Käsekuchen ist eine tolle Sache.
-
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
@@ -48,8 +46,6 @@ Käsekuchen ist eine tolle Sache.
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
-    {% if post.excerpt and site.read_more != 'enabled' %}
-    
     <img src=
     {% if post.img contains "://" %}
       "{{ post.img }}"
@@ -57,6 +53,8 @@ Käsekuchen ist eine tolle Sache.
       "{{ post.img | prepend: "/images/publications/" | prepend: base_path }}"
     {% endif %}
     alt="">
+    
+    {% if post.excerpt and site.read_more != 'enabled' %}
     
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify}}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
