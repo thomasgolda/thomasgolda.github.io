@@ -15,6 +15,7 @@ pdf:
 data:
 code:
 bibtex:
+excerpt: "Anomaly detection plays an important role in a wide range of applications. In the field of video surveillance, image-based detection of an anomalous situation should be achieved. The requirements for  ..."
 ---
 
 Anomaly detection plays an important role in a wide range of applications. In the field of video surveillance, image-based detection of an anomalous situation should be achieved. The requirements for an anomaly detection system are extremely complex, as it is essential to identify temporal and spatial anomalies as well as anomalous appearances.
