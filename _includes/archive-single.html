@@ -50,10 +50,10 @@
     
     <!--{% if post.teaser %}!-->
     <img src=
-    {% if post.teaser contains "://" %}
-      "{{ post.teaser }}"
+    {% if post.image contains "://" %}
+      "{{ post.image }}"
     {% else %}
-      "{{ post.teaser | prepend: "/images/publications/" | prepend: base_path }}"
+      "{{ post.image | prepend: "/images/publications/" | prepend: base_path }}"
     {% endif %}
     alt="">
     <!--{% endif %}!-->
