@@ -57,6 +57,12 @@
       {% if post.pdf %}
         <strong><div><a href="{{ post.pdf }}" class="btn btn--info">Download PDF</a></div></strong>
       {% endif %}
+      {% if post.poster %}
+        <strong><div><a href="{{ base_path }}/files/poster/{{ post.poster }}" class="btn btn--info">Poster</a></div></strong>
+      {% endif %}
+      {% if post.slides %}
+        <strong><div><a href="{{ base_path }}/files/slides/{{ post.slides }}" class="btn btn--info">Slides</a></div></strong>
+      {% endif %}      
       {% if post.code %}
         <strong><div><a href="{{ post.code }}" class="btn btn--article">Code</a></div></strong>
       {% endif %}
