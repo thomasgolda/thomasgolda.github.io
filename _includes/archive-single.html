@@ -14,7 +14,7 @@
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    <!--{% if include.type == "grid" and teaser %}!-->
+    {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
           {% if post.teaser contains "://" %}
@@ -24,7 +24,7 @@
           {% endif %}
           alt="">
       </div>
-    <!--{% endif %}!-->
+    {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
       {% if post.link %}
@@ -47,6 +47,17 @@
         {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
+    
+    {% if post.teaser %}
+    <img src=
+    {% if post.teaser contains "://" %}
+      "{{ post.teaser }}"
+    {% else %}
+      "{{ post.teaser | prepend: "/images/publications/" | prepend: base_path }}"
+    {% endif %}
+    alt="">
+    {% endif %}
+    
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify}}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify}}<strong> <a href="{{ base_path }}{{ post.url }}" class="read_more" rel="permalink">Read more</a></strong></p>
