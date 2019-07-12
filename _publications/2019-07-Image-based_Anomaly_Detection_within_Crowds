@@ -13,8 +13,8 @@ tags:
   - human pose estimation
   - anomaly detection
 data:
-bibtex:
-pdf: 
+bibtex: 2019-07-12-image-based-anomaly-detection-within-crowds.bib
+pdf: http://dx.doi.org/10.5445/KSP/1000094782
 poster:
 slides:
 code:
