@@ -15,6 +15,7 @@ data:
 bibtex:
 pdf:
 code:
+excerpt: "Human pose estimation has recently made significant progress with the adoption of deep convolutional neural networks and the many applications have attracted tremendous interest in recent years. However ..."
 ---
 
 Human pose estimation has recently made significant progress with the adoption of deep convolutional neural networks and the many applications have attracted tremendous interest in recent years.
