@@ -48,7 +48,7 @@
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     
-    {% if post.teaser %}
+    <!--{% if post.teaser %}!-->
     <img src=
     {% if post.teaser contains "://" %}
       "{{ post.teaser }}"
@@ -56,7 +56,7 @@
       "{{ post.teaser | prepend: "/images/publications/" | prepend: base_path }}"
     {% endif %}
     alt="">
-    {% endif %}
+    <!--{% endif %}!-->
     
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify}}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
