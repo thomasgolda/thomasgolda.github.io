@@ -49,10 +49,10 @@
     {% if post.excerpt and site.read_more != 'enabled' %}
     
     <img src=
-    {% if post.image contains "://" %}
-      "{{ post.image }}"
+    {% if post.img contains "://" %}
+      "{{ post.img }}"
     {% else %}
-      "{{ post.image | prepend: "/images/publications/" | prepend: base_path }}"
+      "{{ post.img | prepend: "/images/publications/" | prepend: base_path }}"
     {% endif %}
     alt="">
     
