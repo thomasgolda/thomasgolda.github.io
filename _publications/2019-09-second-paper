@@ -3,7 +3,7 @@ title: "Second Paper"
 collection: publications
 type: "Conference"
 permalink: /publications/Second_Paper
-venue: "16th IEEE International Conference on Advanced Video and Signal Based Surveillance"
+venue: "5th IEEE International Conference for Cakes and Cookies"
 authors: "Thomas Golda, Nils Murzyn, Chengchao Qu, Kristian Kroschel"
 year: 2019
 date: 2019-09-21
@@ -14,9 +14,9 @@ tags:
   - video surveillance
 data:
 bibtex:
-pdf:
-poster:
-slides:
+pdf: ICCC_paper_dummy.pdf
+poster: ICCC_poster_dummy.pdf
+slides: 
 code:
 img: "20190921_avss_preview.png"
 ---
