@@ -13,7 +13,7 @@
 {% endif %}
 
 <div class="">
-  {{ authors }}: <b>{{ title }}</b>. In <i>{{ conference }}</i>, {{ year }}.
+  {{post.authors}}: <b>{{title}}</b>. In <i>{{post.conference}}</i>, {{post.year}}.
 </div>
 
 <div class="{{ include.type | default: "list" }}__item">
