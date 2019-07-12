@@ -62,7 +62,7 @@
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify}}<strong> <a href="{{ base_path }}{{ post.url }}" class="read_more" rel="permalink">Read more</a></strong></p>
     {% endif %}
 
-    {% if post.collection == 'teaching' %}
+    {% if post.collection == 'teaching' or post.collection == 'publications' %}
     <div class="btn_container">
       {% if post.pdf %}
         <strong><div><a href="{{ post.pdf }}" class="btn btn--info">Download PDF</a></div></strong>
