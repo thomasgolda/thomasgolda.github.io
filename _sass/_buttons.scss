@@ -73,6 +73,7 @@
 
   &--info {
     background-color: $info-color;
+    border: 1px solid $info-color !important; /* override*/
 
     &:hover {
       background-color: mix(#000, $info-color, 20%);
