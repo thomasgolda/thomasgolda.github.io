@@ -24,5 +24,5 @@ img: 20190918_avss_preview.png
 Human pose estimation has recently made significant progress with the adoption of deep convolutional neural networks and many applications have attracted tremendous interest in recent years.
 However, many of these applications require pose estimation for human crowds, which still is a rarely addressed problem.
 For this purpose this work explores methods to optimize pose estimation for human crowds, focusing on challenges introduced with larger scale crowds like people in close proximity to each other, mutual occlusions, and partial visibility of people due to the environment.
-In order to address these challenges, multiple approaches are evaluated including: the explicit detection of occluded body parts, a data augmentation method to generate occlusions and the use of the synthetic generated dataset JTA~\cite{fabbri2018learning}.
+In order to address these challenges, multiple approaches are evaluated including: the explicit detection of occluded body parts, a data augmentation method to generate occlusions and the use of the synthetic generated dataset JTA.
 In order to overcome the transfer gap of JTA originating from a low pose variety and less dense crowds, an extension dataset is created to ease the use for real-world applications.
