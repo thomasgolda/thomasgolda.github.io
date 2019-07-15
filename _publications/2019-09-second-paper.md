@@ -2,7 +2,7 @@
 title: "Second Paper"
 collection: publications
 type: "Conference"
-permalink: /publications/Second_Paper
+permalink: /publications/2019-09-second-paper
 venue: "5th IEEE International Conference for Cakes and Cookies"
 authors: "Thomas Golda, Nils Murzyn, Chengchao Qu, Kristian Kroschel"
 year: 2019
