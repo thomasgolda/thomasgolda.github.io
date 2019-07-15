@@ -58,6 +58,7 @@
     
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: "</p>"}}<strong><a href="{{ base_path }}{{ post.url }}" class="read_more" rel="permalink">Read more</a></strong></p>
 
+    <div style="clear:both;"></div>
     {% if post.collection == 'teaching' or post.collection == 'publications' %}
     <div class="btn_container">
       {% if post.pdf %}
