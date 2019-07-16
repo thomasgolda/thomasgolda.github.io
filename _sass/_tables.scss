@@ -1,4 +1,56 @@
 /* ==========================================================================
+   DIV TABLES
+   ========================================================================== */
+
+div.blueTable {
+  background-color: #FAFAFA;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+.divTable.blueTable .divTableCell, .divTable.blueTable .divTableHead {
+  padding: 3px 2px;
+}
+.divTable.blueTable .divTableHeading {
+  background: #F8F8F8;
+  background: -moz-linear-gradient(top, #fafafa 0%, #f8f8f8 66%, #F8F8F8 100%);
+  background: -webkit-linear-gradient(top, #fafafa 0%, #f8f8f8 66%, #F8F8F8 100%);
+  background: linear-gradient(to bottom, #fafafa 0%, #f8f8f8 66%, #F8F8F8 100%);
+  border-bottom: 2px solid #444444;
+}
+.divTable.blueTable .divTableHeading .divTableHead {
+  font-weight: bold;
+  color: #343434;
+}
+.blueTable .tableFootStyle {
+  font-size: 14px;
+}
+.blueTable .tableFootStyle .links {
+	 text-align: right;
+}
+.blueTable .tableFootStyle .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+.blueTable.outerTableFooter {
+  border-top: none;
+}
+.blueTable.outerTableFooter .tableFootStyle {
+  padding: 3px 5px; 
+}
+/* DivTable.com */
+.divTable{ display: table; }
+.divTableRow { display: table-row; }
+.divTableHeading { display: table-header-group;}
+.divTableCell, .divTableHead { display: table-cell;}
+.divTableHeading { display: table-header-group;}
+.divTableFoot { display: table-footer-group;}
+.divTableBody { display: table-row-group;}
+
+/* ==========================================================================
    TABLES
    ========================================================================== */
 
