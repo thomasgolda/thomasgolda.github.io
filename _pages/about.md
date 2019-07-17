@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+toc: true
 ---
 
 My name is Thomas Golda and I’m a research assistant at the [Karlsruhe Institute of Technology](http://www.kit.edu/english/index.php), working in close cooperation with the [Fraunhofer Institute for Optronics, System Technologies and Image Exploitation IOSB](https://www.iosb.fraunhofer.de/servlet/is/12481/) in Karlsruhe (Germany), which is one of the largest research institutes in the field of image acquisition, processing and analysis in Europe.
