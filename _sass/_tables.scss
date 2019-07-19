@@ -51,6 +51,13 @@ div.blueTable {
 .divTableFoot { display: table-footer-group;}
 .divTableBody { display: table-row-group;}
 
+/* Content */
+.tableCol0 {width: 100px;}
+.tableCol1 {width: 175px;}
+.tableCol2 {width: 260px;}
+.tableCol3 {width: auto;}
+.tableCol4 {width: 175px+260px;}
+
 /* ==========================================================================
    TABLES
    ========================================================================== */
