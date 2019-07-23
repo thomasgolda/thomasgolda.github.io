@@ -45,7 +45,7 @@ div.blueTable {
 /* DivTable.com */
 .divTable{ display: table; }
 .divTableRow { display: table-row; border-bottom: 1px solid #e8e8e8;}
-.divTableRowFoot { display: table-row; border: 0; }
+.divTableRow:last-child { display: table-row; border: 0; }
 .divTableHeading { display: table-header-group;}
 .divTableCell, .divTableHead { display: table-cell;}
 .divTableHeading { display: table-header-group;}
