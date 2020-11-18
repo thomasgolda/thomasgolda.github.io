@@ -1,5 +1,5 @@
 ---
-title: "[WIP] Artificial Data for Activity Recognition"
+title: "Artificial Data for Activity Recognition"
 collection: teaching
 type: "Bachelor Thesis"
 permalink: /teaching/2019-10-16-artificial-data-for-activity-recognition
