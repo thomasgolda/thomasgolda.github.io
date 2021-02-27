@@ -24,7 +24,6 @@ I'm always looking for students supporting me with my research. Some currently a
 
 → **NEW**: [Keypoint Tracklet based Anomaly Detection](/files/2021_keypoint_tracklets_zur_anomaliedetektion.pdf) (BA/MA)<br>
 → **NEW**: [Uncertainty Quantification in Crowd Analysis](/files/2021_bayesian_neural_networks_for_crowd_analysis_neu.pdf) (BA/MA)<br>
-→ [Optimization of Human Body Pose Estimation](/files/ba_ma_2018_optimization_of_human_body_pose_estimation.pdf) (Hiwi/BA/MA)<br>
 → [Crowd Motion and Behavior Analysis](/files/ma_2018_crowd_motion_and_behavior_analysis.pdf) (Hiwi/BA/MA)<br>
 → [Supporting Student Position for Research on Human and Crowd Analysis](/files/hiwi_position_human_and_crowd_analysis.pdf) (Hiwi)
 
